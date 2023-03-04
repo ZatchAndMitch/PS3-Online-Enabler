@@ -191,7 +191,7 @@ namespace PS3_Online_Enabler
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/ZatchAndMitch/PS3-Online-Enabler");
+            Process.Start("https://github.com/ZatchAndMitch/PS3-Online-Enabler/releases");
         }
 
         private void tbxPort_KeyPress(object sender, System.Windows.Forms.KeyPressEventArgs e)
